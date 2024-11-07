@@ -1,2 +1,7 @@
 # bayes_workspace
-Implement ideas and practice
+
+- From basic concepts to more complicated ones, I place notes in this repository for future referencing and research. 
+
+- topics:
+
+
